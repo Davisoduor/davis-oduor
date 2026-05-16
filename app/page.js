@@ -98,8 +98,11 @@ export default function HomePage() {
       <section id="experience" className="section">
         <h2>Experience</h2>
         <div className="timeline">
-          {experiences.map((entry) => (
-            <article key={`${entry.role}-${entry.company}`} className="timeline-item">
+          {experiences.map((entry, index) => (
+            <article
+              key={`${entry.company}-${entry.role}-${index}`}
+              className="timeline-item"
+            >
               <p className="period">{entry.period}</p>
               <h3>
                 {entry.role} · {entry.company}

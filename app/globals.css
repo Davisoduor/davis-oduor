@@ -109,6 +109,7 @@ h2 {
 }
 
 .card {
+  background: var(--panel);
   background: color-mix(in srgb, var(--panel) 94%, white 6%);
   border: 1px solid var(--line);
   border-radius: 14px;
