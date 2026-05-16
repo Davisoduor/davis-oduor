@@ -125,8 +125,8 @@ export default function HomePage() {
       <section id="contact" className="section contact">
         <h2>Contact</h2>
         <p>Open to infrastructure, IAM, and cloud platform engineering opportunities.</p>
-        <a href="mailto:hello@davisoduor.dev" className="terminal-link">
-          <span>$</span> hello@davisoduor.dev
+        <a href="mailto:davisoduor65@gmail.com" className="terminal-link">
+          <span>$</span> davisoduor65@gmail.com
         </a>
       </section>
     </main>
