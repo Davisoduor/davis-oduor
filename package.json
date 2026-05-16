@@ -7,8 +7,14 @@
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "portfolio",
+    "cloud",
+    "infrastructure",
+    "iam",
+    "nextjs"
+  ],
+  "author": "Davis Oduor",
   "license": "MIT",
   "dependencies": {
     "next": "^16.2.6",
