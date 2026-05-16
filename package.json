@@ -1,0 +1,18 @@
+{
+  "name": "davis-oduor",
+  "version": "1.0.0",
+  "description": "Personal portfolio site for Davis Oduor (CS @ SFSU · IT &amp; Cybersecurity).",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
