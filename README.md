@@ -1,2 +1,2 @@
 # davis-oduor
-Personal portfolio site for Davis Oduor (CS @ SFSU · IT &amp; Cybersecurity).
+Infrastructure, IAM, Cloud & Full-Stack Engineering Portfolio
