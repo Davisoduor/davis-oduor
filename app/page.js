@@ -98,9 +98,9 @@ export default function HomePage() {
       <section id="experience" className="section">
         <h2>Experience</h2>
         <div className="timeline">
-          {experiences.map((entry, index) => (
+          {experiences.map((entry) => (
             <article
-              key={`${entry.company}-${entry.role}-${index}`}
+              key={`${entry.company}-${entry.role}-${entry.period}`}
               className="timeline-item"
             >
               <p className="period">{entry.period}</p>
